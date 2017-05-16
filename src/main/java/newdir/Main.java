@@ -15,5 +15,6 @@ public class Main {
 
     public static void printHelp() {
         System.out.println("If you need help contact me: pzeszko@gmail.com");
+        System.out.println("Also you can call me: XXX-XXX-XXX");
     }
 }
