@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         printInfo();
         printHelp();
+        cleanup();
     }
 
     public static void printInfo() {
@@ -16,4 +17,7 @@ public class Main {
     public static void printHelp() {
         //TODO Create another class for HelpPrinter
     }
+
+    public static void cleanup() {
+        System.out.println("Cleaning...");    }
 }
