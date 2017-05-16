@@ -9,7 +9,7 @@ public class Main {
 
     public static void printInfo() {
         System.out.println("----------------------------");
-        System.out.println("This is Git practice project.");
+        System.out.println("Welcome to this great Git project.");
         System.out.println("----------------------------");
     }
 
