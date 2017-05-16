@@ -3,6 +3,12 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hey you");
+        printInfo();
+    }
+
+    public static void printInfo() {
+        System.out.println("**********************");
+        System.out.println("This is Git practice project.")
+        System.out.println("**********************");
     }
 }
