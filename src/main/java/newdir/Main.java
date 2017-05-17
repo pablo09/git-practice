@@ -44,6 +44,7 @@ public class Main {
     public static void test2() {
         System.out.println("Test2 in progress");
     }
+
     public static void test3() {
         System.out.println("Test in progress");
     }
@@ -58,6 +59,10 @@ public class Main {
 
     public static void test6() {
         System.out.println("Test in progress");
+
     }
 
+    public static void test() {
+        System.out.println("Test in progress");
+    }
 }
