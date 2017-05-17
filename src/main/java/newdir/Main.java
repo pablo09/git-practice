@@ -65,4 +65,8 @@ public class Main {
     public static void test() {
         System.out.println("Test in progress");
     }
+
+    public static void test() {
+        System.out.println("Test in progress");
+    }
 }
