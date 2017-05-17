@@ -41,5 +41,7 @@ public class Main {
 
     private void test2() {}
     private void test() {}
+    private void test4() {}
+
 
 }
