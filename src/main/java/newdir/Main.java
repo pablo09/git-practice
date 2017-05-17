@@ -37,7 +37,7 @@ public class Main {
         System.out.println("Closing streams...");
     }
 
-    private void masterMethod() {}
+    private void masterMethod2() {}
     private void testMethod() {}
 
     private void testMethod2() {}
