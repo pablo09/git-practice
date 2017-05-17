@@ -30,6 +30,7 @@ public class Main {
 
     public static void closeStreams() {
         System.out.println("Closing streams...");
+        System.out.println("Closing streams...");
     }
 
 }
