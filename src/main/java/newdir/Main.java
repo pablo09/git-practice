@@ -20,10 +20,16 @@ public class Main {
     }
 
     public static void cleanup() {
+        closeStreams();
         System.out.println("Cleaning...");
     }
 
     public static void stopServer() {
         System.out.println("Stopping server...");
     }
+
+    public static void closeStreams() {
+        System.out.println("Closing streams...");
+    }
+
 }
