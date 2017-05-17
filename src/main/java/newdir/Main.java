@@ -22,6 +22,7 @@ public class Main {
     public static void cleanup() {
         closeStreams();
         System.out.println("Cleaning...");
+        System.out.println("Cleaning...");
     }
 
     public static void stopServer() {
