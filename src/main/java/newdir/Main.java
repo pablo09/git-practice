@@ -48,6 +48,7 @@ public class Main {
 
     private void testMethod5() {}
 
+    private void masterMEthod() {}
 
 
 }
