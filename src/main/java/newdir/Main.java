@@ -37,4 +37,12 @@ public class Main {
         System.out.println("Closing streams...");
     }
 
+    public static void test1() {
+        System.out.println("Test1 in progress...");
+    }
+
+    public static void test2() {
+        System.out.println("Test2 in progress");
+    }
+
 }
