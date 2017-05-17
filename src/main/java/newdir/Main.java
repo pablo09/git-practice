@@ -19,5 +19,6 @@ public class Main {
     }
 
     public static void cleanup() {
-        System.out.println("Cleaning...");    }
+        System.out.println("Cleaning...");
+    }
 }
