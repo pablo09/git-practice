@@ -26,9 +26,11 @@ public class Main {
 
     public static void stopServer() {
         System.out.println("Stopping server...");
+        System.out.println("Stopping server...");
     }
 
     public static void closeStreams() {
+        System.out.println("Closing streams...");
         System.out.println("Closing streams...");
         System.out.println("Closing streams...");
     }
