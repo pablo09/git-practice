@@ -42,4 +42,6 @@ public class Main {
 
     private void testMethod2() {}
 
+    private void testMethod3() {}
+
 }
