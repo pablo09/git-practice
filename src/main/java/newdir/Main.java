@@ -40,4 +40,6 @@ public class Main {
     private void masterMethod() {}
     private void testMethod() {}
 
+    private void testMethod2() {}
+
 }
